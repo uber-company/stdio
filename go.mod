@@ -1,4 +1,4 @@
-module github.com/lcvvvv/stdio
+module github.com/uber-company/stdio
 
 go 1.17
 
